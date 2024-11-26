@@ -6,7 +6,12 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Sotatek
-    url: https://sotatek.com
+    url: https://www.sotatek.com
+  - name: FB 
+    url: https://www.facebook.com
+
+  - name: DevOps Performance Test
+    url: https://performance.devops.sotatek.works/
 
   
   - name: IPv6 test
