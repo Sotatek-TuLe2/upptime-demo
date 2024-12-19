@@ -40,18 +40,20 @@
     "url": "https://performance.devops.sotatek.works/",
     "icon": "https://icons.duckduckgo.com/ip3/performance.devops.sotatek.works.ico",
     "slug": "dev-ops-performance-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 472,
-    "timeWeek": 377,
+    "timeDay": 401,
+    "timeWeek": 371,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-19": 0
+    }
   },
   {
     "name": "github.com",
