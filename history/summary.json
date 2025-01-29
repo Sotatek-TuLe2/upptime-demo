@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 167,
     "timeMonth": 123,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "FB",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/performance.devops.sotatek.works.ico",
     "slug": "dev-ops-performance-test",
     "status": "down",
-    "uptime": "47.84%",
+    "uptime": "47.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "23.31%",
-    "uptimeYear": "47.84%",
+    "uptimeYear": "47.71%",
     "time": 326,
     "timeDay": 172,
     "timeWeek": 248,
     "timeMonth": 317,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-01-29": 63,
+      "2025-01-29": 324,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -133,9 +135,9 @@
     "url": "https://cloud.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.google.com.ico",
     "slug": "google-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +146,8 @@
     "timeWeek": 226,
     "timeMonth": 251,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   }
 ]
