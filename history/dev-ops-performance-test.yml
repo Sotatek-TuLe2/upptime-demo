@@ -1,7 +1,7 @@
 url: https://performance.devops.sotatek.works/
-status: down
-code: 503
-responseTime: 200
-lastUpdated: 2025-03-21T15:18:56.721Z
+status: up
+code: 200
+responseTime: 393
+lastUpdated: 2025-03-21T16:45:24.176Z
 startTime: 2024-11-26T08:51:16.241Z
 generator: Upptime <https://github.com/upptime/upptime>
