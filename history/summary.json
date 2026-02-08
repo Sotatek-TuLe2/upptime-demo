@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 124,
-    "timeDay": 93,
-    "timeWeek": 122,
-    "timeMonth": 101,
+    "timeDay": 115,
+    "timeWeek": 121,
+    "timeMonth": 102,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-12-23": 52,
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 438,
-    "timeDay": 557,
-    "timeWeek": 326,
-    "timeMonth": 449,
+    "timeDay": 292,
+    "timeWeek": 328,
+    "timeMonth": 444,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2026-01-10": 20,
@@ -56,7 +56,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/performance.devops.sotatek.works.ico",
     "slug": "dev-ops-performance-test",
     "status": "down",
-    "uptime": "15.61%",
+    "uptime": "15.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -65,9 +65,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 743,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2026-02-07": 104,
+      "2026-02-08": 131,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -398,8 +399,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -413,11 +413,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 192,
-    "timeDay": 552,
-    "timeWeek": 333,
-    "timeMonth": 207,
-    "timeYear": 205,
+    "time": 193,
+    "timeDay": 502,
+    "timeWeek": 318,
+    "timeMonth": 221,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2025-12-22": 22,
       "2025-12-20": 32,
@@ -440,9 +440,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 244,
-    "timeDay": 132,
-    "timeWeek": 168,
-    "timeMonth": 178,
+    "timeDay": 196,
+    "timeWeek": 173,
+    "timeMonth": 180,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-08-31": 106,
@@ -466,10 +466,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 300,
-    "timeWeek": 321,
-    "timeMonth": 315,
-    "timeYear": 308,
+    "timeDay": 472,
+    "timeWeek": 335,
+    "timeMonth": 322,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   }
 ]
