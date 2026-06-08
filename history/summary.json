@@ -68,7 +68,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 215,
+      "2026-06-08": 421,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -440,17 +440,17 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 219,
-    "timeDay": 66,
-    "timeWeek": 122,
-    "timeMonth": 207,
-    "timeYear": 249,
+    "time": 220,
+    "timeDay": 117,
+    "timeWeek": 127,
+    "timeMonth": 206,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-07-04": 27,
       "2025-07-28": 39,
@@ -461,7 +461,8 @@
       "2026-02-11": 69,
       "2026-02-27": 37,
       "2026-04-18": 55,
-      "2026-04-25": 39
+      "2026-04-25": 39,
+      "2026-06-08": 0
     }
   },
   {
