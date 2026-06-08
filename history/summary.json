@@ -57,7 +57,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/performance.devops.sotatek.works.ico",
     "slug": "dev-ops-performance-test",
     "status": "down",
-    "uptime": "12.23%",
+    "uptime": "12.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -68,7 +68,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 421,
+      "2026-06-08": 726,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -440,16 +440,16 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github-com",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 220,
-    "timeDay": 117,
-    "timeWeek": 127,
-    "timeMonth": 206,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "78.84%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.87%",
+    "time": 219,
+    "timeDay": 88,
+    "timeWeek": 117,
+    "timeMonth": 201,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-07-04": 27,
@@ -462,7 +462,7 @@
       "2026-02-27": 37,
       "2026-04-18": 55,
       "2026-04-25": 39,
-      "2026-06-08": 0
+      "2026-06-08": 305
     }
   },
   {
